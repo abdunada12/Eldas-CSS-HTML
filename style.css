@@ -185,7 +185,7 @@ header .about-h a:hover{
 
 /* Footer styling */
 footer{
-    background-image: url(/images/footer.png);
+    background-image: url(images/footer.png);
     width: 100vw;
     background-size: cover;
     height: 400px;
